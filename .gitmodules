@@ -1,0 +1,6 @@
+[submodule "Real-Time-Fruits-Detection-Using-Yolo"]
+	path = Real-Time-Fruits-Detection-Using-Yolo
+	url = https://github.com/noorkhokhar99/Real-Time-Fruits-Detection-Using-Yolo.git
+[submodule "yolov5"]
+	path = yolov5
+	url = https://github.com/ultralytics/yolov5.git
