@@ -1,1 +1,0 @@
-# Friut-Vegetable-Recognition-AI
